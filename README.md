@@ -1,3 +1,3 @@
 # action-repo
-Main repo main branch
+Main repo to main branch
 
